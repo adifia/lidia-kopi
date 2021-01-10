@@ -47,7 +47,8 @@ include_once "ambildata.php";
                                 <!-- <time datetime="2045-04-06T08:15+00:00">Friday, 6<sup>th</sup> April 2045 @08:15:00</time> -->
                             </header>
                             <div class="comcont">
-                                <p>Menu ini halaman terdiri dari 2 sub menu yaitu <b>Data Hilirisasi Produk Kopi Arabika Ijen Raung</b> yang berupa tabel persebaran produk kopi arabika Ijen Raung yang disajikan dalam bentuk tabel, dan menu <b>Peta Persebaran Hilirisasi Produk Kopi Arabika Ijen Raung</b> untuk menampilkan peta persebaran kopi arabika Ijen Raung yang disajikan dalam bentuk maps.</p>
+                                <p>Menu ini berisikan 1 sub menu, yaitu <b>Data Hilirisasi Produk Kopi Arabika Ijen Raung</b> yang berupa tabel persebaran produk kopi arabika Ijen Raung yang disajikan dalam bentuk tabel.</p>
+                                <!-- <p>Menu ini halaman terdiri dari 2 sub menu yaitu <b>Data Hilirisasi Produk Kopi Arabika Ijen Raung</b> yang berupa tabel persebaran produk kopi arabika Ijen Raung yang disajikan dalam bentuk tabel, dan menu <b>Peta Persebaran Hilirisasi Produk Kopi Arabika Ijen Raung</b> untuk menampilkan peta persebaran kopi arabika Ijen Raung yang disajikan dalam bentuk maps.</p> -->
                             </div>
                         </article>
                     </li>
