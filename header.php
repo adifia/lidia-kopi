@@ -32,10 +32,10 @@ $page = $GLOBALS['page'];
             <div class="three_quarter">
                 <ul class="nospace clear" style="margin-top: 30px;">
                     <li class="one_third first">
-                        <div class="block clear"><a href="#"><i class="fas fa-phone"></i></a> <span><strong>Give us a call:</strong> +00 (123) 456 7890</span></div>
+                        <div class="block clear"><a href="#"><i class="fas fa-phone"></i></a> <span><strong>Give us a call:</strong> +62 822 5774 6451</span></div>
                     </li>
                     <li class="one_third">
-                        <div class="block clear"><a href="#"><i class="fas fa-envelope"></i></a> <span><strong>Send us a mail:</strong> support@domain.com</span></div>
+                        <div class="block clear"><a href="#"><i class="fas fa-envelope"></i></a> <span><strong>Send us a mail:</strong> lidiawildan14@gmail.com</span></div>
                     </li>
                     <li class="one_third">
                         <div class="block clear"><a href="#"><i class="fas fa-clock"></i></a> <span><strong> Mon. - Sat.:</strong> 08.00am - 18.00pm</span></div>

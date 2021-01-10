@@ -14,7 +14,7 @@
 			</ul>
 		</div>
 		<div class="one_third">
-			<h6 class="heading">Program Studi ...</h6>
+			<h6 class="heading">Program Studi Teknologi Industri Pertanian</h6>
 			<!-- <ul class="nospace clear latestimg">
                     <li><a href="#"><img src="images/demo/100x100.png" alt=""></a></li>
                     <li><a href="#"><img src="images/demo/100x100.png" alt=""></a></li>

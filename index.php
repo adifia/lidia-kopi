@@ -13,9 +13,8 @@ include_once "header.php"; ?>
 		</article>
 	</div>
 </div>
-<div class="wrapper row3">
+<!-- <div class="wrapper row3">
 	<main class="hoc container clear">
-		<!-- main body -->
 		<div class="sectiontitle">
 			<h6 class="heading">In quam sed quis turpis vitae</h6>
 			<p>Lectus vehicula tincidunt maecenas non dolor ac nunc malesuada</p>
@@ -34,9 +33,6 @@ include_once "header.php"; ?>
 				<p>Enim integer laoreet odio sed neque vestibulum vehicula neque et ornare congue lacus nisi pharetra nisl a pharetra urna metus.</p>
 			</article>
 		</div>
-		<!-- <p class="center"><a class="btn" href="#">Consectetuer porttitor <i class="fas fa-angle-right"></i></a></p> -->
-		<!-- / main body -->
-		<!-- <div class="clear"></div> -->
 	</main>
-</div>
+</div> -->
 <?php include_once "footer.php"; ?>
