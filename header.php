@@ -38,7 +38,7 @@ $page = $GLOBALS['page'];
                         <div class="block clear"><a href="#"><i class="fas fa-envelope"></i></a> <span><strong>Send us a mail:</strong> lidiawildan14@gmail.com</span></div>
                     </li>
                     <li class="one_third">
-                        <div class="block clear"><a href="#"><i class="fas fa-clock"></i></a> <span><strong> Mon. - Sat.:</strong> 08.00am - 18.00pm</span></div>
+                        <div class="block clear"><a href="#"><i class="fab fa-instagram"></i></a> <span><strong>Instagram:</strong> @lidi_wil</span></div>
                     </li>
                 </ul>
             </div>
@@ -53,7 +53,7 @@ $page = $GLOBALS['page'];
                     <li><a class="drop" href="#">Halaman</a>
                         <ul>
                             <li><a href="data.php">Data Hilirisasi Produk Kopi Arabika Ijen Raung</a></li>
-                            <li><a href="pages/full-width.html">Peta Persebaran Hilirisasi Produk Kopi Arabika Ijen Raung</a></li>
+                            <!-- <li><a href="pages/full-width.html">Peta Persebaran Hilirisasi Produk Kopi Arabika Ijen Raung</a></li> -->
                         </ul>
                     </li>
                     <li <?php if ($page == "petunjuk") {
