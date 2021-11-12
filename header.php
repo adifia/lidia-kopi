@@ -53,7 +53,7 @@ $page = $GLOBALS['page'];
                     <li><a class="drop" href="#">Halaman</a>
                         <ul>
                             <li><a href="data.php">Data Hilirisasi Produk Kopi Arabika Ijen Raung</a></li>
-                            <!-- <li><a href="pages/full-width.html">Peta Persebaran Hilirisasi Produk Kopi Arabika Ijen Raung</a></li> -->
+                            <li><a href="nilai-tambah.php">Nilai Tambah</a></li>
                         </ul>
                     </li>
                     <li <?php if ($page == "petunjuk") {
