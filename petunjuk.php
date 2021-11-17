@@ -42,12 +42,27 @@ include_once "ambildata.php";
                             <header>
                                 <figure class="avatar"><a href="data.php"><i class="fas fa-arrow-right"></i></a></figure>
                                 <address>
-                                    Menu <a href="data.php">Halaman</a>
+                                    Menu <a href="data.php">Data Hilirisasi Produk Kopi Arabika Ijen Raung</a>
                                 </address>
                                 <!-- <time datetime="2045-04-06T08:15+00:00">Friday, 6<sup>th</sup> April 2045 @08:15:00</time> -->
                             </header>
                             <div class="comcont">
-                                <p>Menu ini berisikan 1 sub menu, yaitu <b>Data Hilirisasi Produk Kopi Arabika Ijen Raung</b> yang berupa tabel persebaran produk kopi arabika Ijen Raung yang disajikan dalam bentuk tabel.</p>
+                                <p>Menu ini berisikan <b>Data Hilirisasi Produk Kopi Arabika Ijen Raung</b> yang berupa tabel persebaran produk kopi arabika Ijen Raung yang disajikan dalam bentuk tabel.</p>
+                                <!-- <p>Menu ini halaman terdiri dari 2 sub menu yaitu <b>Data Hilirisasi Produk Kopi Arabika Ijen Raung</b> yang berupa tabel persebaran produk kopi arabika Ijen Raung yang disajikan dalam bentuk tabel, dan menu <b>Peta Persebaran Hilirisasi Produk Kopi Arabika Ijen Raung</b> untuk menampilkan peta persebaran kopi arabika Ijen Raung yang disajikan dalam bentuk maps.</p> -->
+                            </div>
+                        </article>
+                    </li>
+                    <li>
+                        <article>
+                            <header>
+                                <figure class="avatar"><a href="nilai-tambah.php"><i class="fas fa-arrow-right"></i></a></figure>
+                                <address>
+                                    Menu <a href="data.php">Perhitungan Nilai Tambah</a>
+                                </address>
+                                <!-- <time datetime="2045-04-06T08:15+00:00">Friday, 6<sup>th</sup> April 2045 @08:15:00</time> -->
+                            </header>
+                            <div class="comcont">
+                                <p>Menu ini berisikan tabel <b>Perhitungan Nilai Tambah</b> produk kopi arabika Ijen Raung.</p>
                                 <!-- <p>Menu ini halaman terdiri dari 2 sub menu yaitu <b>Data Hilirisasi Produk Kopi Arabika Ijen Raung</b> yang berupa tabel persebaran produk kopi arabika Ijen Raung yang disajikan dalam bentuk tabel, dan menu <b>Peta Persebaran Hilirisasi Produk Kopi Arabika Ijen Raung</b> untuk menampilkan peta persebaran kopi arabika Ijen Raung yang disajikan dalam bentuk maps.</p> -->
                             </div>
                         </article>

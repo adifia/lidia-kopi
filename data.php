@@ -61,7 +61,8 @@ include_once "ambildata.php";
 													<div class="btn-group">
 														<a href="detail.php?id=<?php echo $item['id_perusahaan']; ?>" rel="tooltip" data-original-title="Lihat File" data-placement="top" class="btn btn-primary">
 															<!-- <i class="fa fa-map-marker"> </i>  -->
-															Detail</a>&nbsp;
+															Detail
+														</a>&nbsp;
 													</div>
 												</td>
 											</tr>
@@ -73,6 +74,16 @@ include_once "ambildata.php";
 
 								</tbody>
 							</table>
+						</div>
+						<div class="wrapper row3">
+							<main class="hoc clear">
+								<div class="content">
+									<img class="imgl borderedbox inspace-5" src="images/kopi.jpg" alt="kopi" style="width: 200px;">
+									<p class="justified"> Sistem informasi ini memuat tentang data hilirisasi produk kopi ijen raung yang berada di Kabupaten Bondowoso. data tersebut berisikan tentang profil usaha, seperti nama usaha, nama pemilik, no Hp, alamat, tahun berdiri, wilayah pemasaran, dan jenis produk yang dihasilkan.</p>
+									<p class="justified"> Kopi arabika ijen raung adalah kopi jenis arabika yang ditanam pada ketinggian 1000 Mdpl dan banyak ditemukan di lereng gunung ijen dan raung daerah Kabupaten Bondowoso. Daerah yang paling banyak menekuni usaha kopi ini adalah Desa Sukosari dan Sumberwringin. Kopi arabika yang dihasilkan diolah menjadi beberapa jenis produk, seperti kopi bubuk, roasbean, greenbean, dll. Jenis produk tersebut didistribusikan ke berbagai daerah, seperti Surabaya, Malang, Jakarta, Medan, Jawa Tengah, bahkan sampai luar negeri.</p>
+								</div>
+								<div class="clear"></div>
+							</main>
 						</div>
 					</div>
 				</div>

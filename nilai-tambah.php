@@ -233,6 +233,20 @@ include_once "header.php";
 								</tbody>
 							</table>
 						</div>
+						<div class="wrapper row3">
+							<main class="hoc clear">
+								<div class="content">
+									<p class="bold">a. Output, Input, dan Harga</p>
+									<p class="justified"> Pada perhitungan nilai tambah terdapat tiga variabel, salah satunya adalah variabel output, input, dan harga. Komponen nilai yang terdapat pada variabel tersebut, seperti input, harga produk, hari operasional kerja, dan upah tenaga kerja didapatkan dari hasil wawancara secara langsung dengan pelaku usaha, sehingga didapatkan hasil seperti pada tabel di atas.</p>
+									<p class="bold">b. Penerimaan dan Keuntungan</p>
+									<p class="justified"> Harga bahan baku, nilai output, dan sumbangan input lain akan menghasilkan nilai tambah dengan cara mengurangi ketiga nilai tersebut. Nilai tambah dari produk greenbean, kopi sangrai, dan kopi bubuk secara berturut-turut sebesar Rp. 4.672/Kg, Rp. 111.608/Kg, dan Rp. 167.260/Kg. Rasio nilai tambah adalah rasio antara nilai tambah dengan nilai output. Pada tabel di atas rasio nilai tambah pada produk greenbean, kopi sangrai, dan kopi bubuk sebesar 29,312%, 77,505%, dan 86,217%. Hal tersebut mengartikan bahwa nilai output greenbean Rp. 4.672/Kg /Kg terdapat 29,312% nilai tambah dari kopi greenbean. Berdasarkan kriteria nilai tambah menurut Hayami, hasil nilai tambah dari ketiga produk kopi tersebut dengan nilai tambah > 0 berarti ketiga jenis produk kopi memberikan nilai tambah bagi para tenaga kerja maupun pemilik usaha.</p>
+									<p class="justified"> Nilai keuntungan adalah selisih dari nilai tambah dan pendapatan tenaga kerja. Nilai keuntungan untuk produk greenbean, kopi sangrai, dan bubuk secara berturut-turut sebesar Rp. 2.692/Kg dengan tingkat keuntungan sebesar 16,890%, Rp. 89.409/Kg dengan tingkat keuntungan sebesar 68,340%, dan Rp. 154.062/Kg dengan tingkat keuntungan sebesar 79,413%. Nilai keuntungan tersebut menunjukkan bahwa besarnya upah atau imbalan yang diperoleh para pelaku usaha kopi. Menurut Hasanah, 2015, jika tingkat keuntungan yang diperoleh tinggi, maka agroindustri tersebut dapat meningkatkan pertumbuhan ekonomi. </p>
+									<p class="bold">c. Balas Jasa Pemilik Faktor Produksi</p>
+									<p class="justified"> Balas jasa terbesar dari ketiga faktor pada ketiga jenis produk kopi berasal dari nilai sumbangan input lain. Nilai sumbangan input lain pada produk greenbean, kopi sangrai, dan bubuk secara berturut-turut adalah 907,245%, 27601,010%, dan 18256,009% artinya sumbangan input lain dari ketiga jenis kopi tersebut menyumbang Rp. 907, Rp. 27.601, dan Rp. 18.256 dalam Rp. 1.000 margin perusahaan. </p>
+								</div>
+								<div class="clear"></div>
+							</main>
+						</div>
 					</div>
 				</div>
 			</div>

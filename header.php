@@ -50,16 +50,15 @@ $page = $GLOBALS['page'];
                 <ul class="clear">
                     <li <?php if ($page == "beranda") {
                         ?> class="active" <?php } ?>><a href="index.php">Beranda</a></li>
-                    <li><a class="drop" href="#">Halaman</a>
-                        <ul>
+                    <li><a href="data.php">Data Hilirisasi Produk Kopi Arabika Ijen Raung</a></a>
+                        <!-- <ul>
                             <li><a href="data.php">Data Hilirisasi Produk Kopi Arabika Ijen Raung</a></li>
                             <li><a href="nilai-tambah.php">Perhitungan Nilai Tambah</a></li>
-                        </ul>
+                        </ul> -->
                     </li>
+                    <li <?php if ($page == "tentang") { ?> class="active" <?php } ?>><a href="nilai-tambah.php">Perhitungan Nilai Tambah</a></li>
                     <li <?php if ($page == "petunjuk") {
                         ?> class="active" <?php } ?>><a href="petunjuk.php">Petunjuk Penggunaan</a></li>
-                    <li <?php if ($page == "tentang") {
-                        ?> class="active" <?php } ?>><a href="tentang.php">Tentang</a></li>
                 </ul>
             </nav>
             <!-- <div id="searchform">
